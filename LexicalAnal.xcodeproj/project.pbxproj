@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		A542AF75244DEB9900111BB5 /* LexicalAnal */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LexicalAnal; sourceTree = BUILT_PRODUCTS_DIR; };
 		A542AF78244DEB9900111BB5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A584AC882465D26000233762 /* symbolMap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = symbolMap.h; sourceTree = "<group>"; };
+		A584AC892465D27400233762 /* MergedTable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MergedTable.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				A542AF78244DEB9900111BB5 /* main.cpp */,
+				A584AC882465D26000233762 /* symbolMap.h */,
+				A584AC892465D27400233762 /* MergedTable.h */,
 			);
 			path = LexicalAnal;
 			sourceTree = "<group>";
